@@ -2,6 +2,7 @@ Bai1:
 Python là ngôn ngữ thông dịch, không phải ngôn ngữ biên dịch:
 Khi chạy chương trình Python, máy tính đọc và thực hiện từng dòng lệnh một, chứ không dịch toàn bộ chương trình thành ngôn ngữ máy trước như C hoặc C++.
 Python dùng một trình thông dịch để chạy chương trình, giống như người phiên dịch đọc từng câu rồi dịch luôn, không dịch sẵn cả bài.
+
 Bai 2:
 Các kiểu dữ liệu trong python:
 kiểu dữ liệu	mô tả	        ví dụ
@@ -14,7 +15,7 @@ tuple	        bộ giá trị cố định	(1,2)
 dict	       key-value	{"name":"Vũ","age":"19"}
 set	            tập hợp	    {1,2,3}
 
-Các Toán tử trong Python:
+Các Toán tử trong Python:hihihhihih
 Toán tử số học
 toán tử	ý nghĩa	ví dụ
 +	cộng	a+b=2
